@@ -108,7 +108,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Whatsupcoders](https://www.youtube.com/c/whatsupcoders) <!--youtube:list/PL6BTtm1PxwOUpt1muzFD3ErxWdCzLkYbI--> - Free video series on Flutter Widgets by [Kamal](https://github.com/whatsupcoders)
 - [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value and in-depth challenges.
 
-
 ## Components
 
 ### Demonstrations
@@ -514,7 +513,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Premium
 
 - [History Of Everything](https://github.com/2d-inc/HistoryOfEverything) <!--stargazers:2d-inc/HistoryOfEverything--> - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/)
-- [Developer Quest](https://github.com/2d-inc/developer_quest)  <!--stargazers:2d-inc/developer_quest--> - Become a tech lead, slay bugs by [2D, Inc](https://www.2dimensions.com/)
+- [Developer Quest](https://github.com/2d-inc/developer_quest) <!--stargazers:2d-inc/developer_quest--> - Become a tech lead, slay bugs by [2D, Inc](https://www.2dimensions.com/)
 
 ### Top
 
@@ -576,7 +575,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Enhancement_Suite](https://github.com/marius-h/flutter_enhancement_suite) <!--stargazers:marius-h/flutter_enhancement_suite--> - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h)
 
-
 ### Desktop
 
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google
@@ -599,7 +597,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Interview Questions](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders](https://github.com/whatsupcoders/Whatsupcoders-flutter)
 
-
 ## Community
 
 ### Presentation material
@@ -621,16 +618,19 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FlutterX](https://flutterx.com) - Searchable list of resources by [Hillel Coren](https://twitter.com/hillelcoren)
 
 ### 🇦🇴 Angola
+
 - Facebook [Group](https://facebook.com/groups/556888664681938)
 - Facebook [Page](https://facebook.com/Flutter-Angola-2076395262380886/)
 - Twitter [Page](https://twitter.com/AngolaFlutter)
 
 ### 🇦🇺 Australia
+
 - Slack [GDG Sydney](https://gdg-sydney.slack.com)
 - Meetup [GDG Sydney](https://www.meetup.com/gdgsydney)
 - Twitter [Flutter Sydney](https://twitter.com/FlutterSydney)
 
 ### 🇧🇷 Brazil
+
 - Slack [Flutter Brasil](https://flutterbr.slack.com)
 - Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)
 - Twitter [Flutter Comunidade BR](https://twitter.com/br_flutter)
@@ -674,6 +674,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Slack [Flutter GR](https://join.slack.com/t/fluttergr/shared_invite/enQtNzQwODM2NzIxOTg0LWFjNWYxYzkyMTdmYWQ4ZWYyMWI2YjcyOTI4YzAzYjY2Nzk3OWNkMTkwZGRjNjRiMGFlNzgyOGRhMmEyZTQ3MmM)
 
 ### 🇮🇩 Indonesia
+
 - Telegram [Flutter Indonesia](https://t.me/flutter_id)
 
 ### 🇯🇵 Japan
@@ -693,6 +694,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Twitter [FlutterLagos](https://twitter.com/FlutterLagos)
 
 ### 🇵🇱 Poland
+
 - [Flutter Developers Poland Facebook Group](https://www.facebook.com/groups/2228619364094561/about/)
 - [Flutter Poland Slack workspace](http://bit.ly/flutter-pl-slack)
 - [Flutter Warsaw Meetup](https://www.meetup.com/Flutter-Warsaw/)
@@ -704,6 +706,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Twitter [Tricity](https://twitter.com/FlutterTricity/)
 
 ### 🇵🇹 Portugal
+
 - [Meetup](https://www.meetup.com/flutterportugal)
 
 ### 🇷🇺 Russia
@@ -715,7 +718,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Madrid Community](https://flutter.madrid)
 - [Madrid Meetup](https://www.meetup.com/es-ES/Flutter-Madrid)
 - [Madrid Twitter](https://twitter.com/FlutterMadrid)
-
 
 ### 🇱🇰 Sri Lanka
 
@@ -743,13 +745,14 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### 🇺🇸 United States
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
-- Meetup [Washington DC] (https://www.meetup.com/DCFlutter/)
+- Meetup [Washington DC](https://www.meetup.com/DCFlutter/)
 
 ### 🏴 Kurdistan
 
 - Meetup [Kurdistan](https://www.meetup.com/Flutter-Kurdistan/)
 
 ### 🇳🇴 Norway
+
 - [Meetup Oslo](https://www.meetup.com/Oslo-Flutter-Dart-Meetup/)
 - [Meetup Stavanger](https://www.meetup.com/Flutter-Stavanger/)
 - [Twitter](https://twitter.com/flutterNorway)

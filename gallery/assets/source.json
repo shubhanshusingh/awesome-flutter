@@ -1,0 +1,86 @@
+{
+    "version": "1.0.0",
+    "sections": [
+        {
+            "name": "Articles",
+            "selector": "#articles",
+            "sources": []
+        },
+        {
+            "name": "Videos",
+            "selector": "#videos",
+            "sources": []
+        },
+        {
+            "name": "Components",
+            "selector": "#components",
+            "sources": []
+        },
+        {
+            "name": "Navigation",
+            "selector": "#navigation",
+            "sources": []
+        },
+        {
+            "name": "Template",
+            "selector": "#templates",
+            "sources": []
+        },
+        {
+            "name": "Plugins",
+            "selector": "#plugins",
+            "sources": [
+                {
+                    "name": "WebView",
+                    "description": "Render web content",
+                    "pub": "https://pub.dev/packages/flutter_webview_plugin",
+                    "source": "https://github.com/dart-flitter/flutter_webview_plugin",
+                    "authors": "0",
+                    "demo": ""
+                }
+            ]
+        },
+        {
+            "name": "Frameworks",
+            "selector": "#frameworks",
+            "sources": []
+        },
+        {
+            "name": "Open Source Apps",
+            "selector": "#open-source-apps",
+            "sources": []
+        },
+        {
+            "name": "Web",
+            "selector": "#templwebates",
+            "sources": []
+        },
+        {
+            "name": "Utilities",
+            "selector": "#utilities",
+            "sources": []
+        },
+        {
+            "name": "Community",
+            "selector": "#community",
+            "sources": []
+        },
+        {
+            "name": "Bonus",
+            "selector": "#bonus",
+            "sources": []
+        }
+    ],
+    "contributors": [
+        {
+            "id": "0",
+            "name": "Hadrien Lejard",
+            "email": "",
+            "twitter": "https://twitter.com/HadrienLejard",
+            "facebook": "",
+            "instagram": "",
+            "website": "",
+            "github": ""
+        }
+    ]
+}
